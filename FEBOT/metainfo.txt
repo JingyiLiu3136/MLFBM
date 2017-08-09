@@ -1,0 +1,21 @@
+Name of Quantlet:  SPL_FEBOT
+ 
+Published in:      Statistical programming languages-Student project on ''MLFBM'''
+  
+Description:       'Combine the date data together to generate the accurate date of each observatiion, then using the date as anchor to add macro time series data from portugal central bank - Banco de Portugal to finish the feature engineering'
+ 
+Keywords:          data mining, model, 
+
+See also:          
+
+Author:            Jingyi Liu
+  
+Submitted:         
+  
+Datafile:          ‘bank-additional-full.csv’,'aditional_data.CSV'
+  
+Input:  
+  
+Output:  
+  
+Example:  
