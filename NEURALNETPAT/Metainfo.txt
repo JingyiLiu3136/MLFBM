@@ -1,0 +1,21 @@
+Name of Quantlet:  SPL_NEURALNETPAT
+ 
+Published in:      ‘Statistical programming languages-Student project on “MLFBM”’
+
+Description:       ‘Creat dummy variables of all qualitative data.Then normalize all dummy data and quantitative data for training and testing artificial neural network.Use the normalized data to Train the neural network model and plot the neural net.Final step is use model to predict other data and analyze the accuracy of model by ROC and AUC.’
+
+Keywords:          plot, ‘neural-network’, data mining, model, logarithmic, threshold
+
+See also:          
+
+Author:            Zhou Ren
+  
+Submitted:         
+  
+Datafile:          bank-additional-full.csv
+  
+Input:  
+  
+Output:  
+  
+Example:  ‘Use past data and results to train model and predict results by model and this period data.’

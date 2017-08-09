@@ -1,0 +1,21 @@
+Name of Quantlet:  SPL_MLDATAPRE
+ 
+Published in:      ‘Statistical programming languages-Student project on “MLFBM”’
+
+Description:       ‘Generate the different kinds of plots to analysis the properties and relationships of variables.Then create a function to detect the number and partition of outliers.And for preparing data for model, this quantlet also have two data-processing  methods.’
+
+Keywords:          plot, visualization, graphical representation, histogram, boxplot, function,
+
+See also:          
+
+Author:            Zhou Ren
+  
+Submitted:         
+  
+Datafile:          bank-additional-full.csv
+  
+Input:  
+  
+Output:  
+  
+Example:  Generate plots and detect outliers for data
