@@ -1,0 +1,14 @@
+Name of Quantlet:  SPLRF
+ 
+Published in:      Statistical programming languages - Student project on MLFBM
+  
+Description:       First, this quantlet constructs the default random forest model to predict the outcome of Bank Tele-Marketing. By observing the OOB error of the default random forest model, we can choose the reasonable number of trees. Then, we tune the parameter mtry using Algorithm tuneRF. Constructing the tuned random forest, we predict and calculate the AUC and compare the results of two constructed random forest. 
+We found that the tuned random forest is little better than the default random forest. Finally, given that the parameter mtry is the most important parameter to construct the random forest model, we use other two methods to tune the parameter mtry using package “caret”. It takes lots of time to choose the best parameter mtry. However, the results don’t improve much.
+ 
+Keywords:          data mining, random-forest, cross-validation, plot, testing        
+
+Author:            Manqi Ding       
+  
+Datafile:          bank-additional-full.csv
+
+Example:  
