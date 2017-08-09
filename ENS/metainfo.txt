@@ -1,0 +1,21 @@
+Name of Quantlet:  
+ 
+Published in:      Using Machine Learning for the Bank Tele-Marketing Prediction
+  
+Description:       Shows monthly returns of six US firms from Jan 2000 to Dec 2009.
+ 
+Keywords:          machine lerning, bank marketing, returns, asset, time-series, plot
+
+See also:          MVAportfol_IBM_Ford, MVAportfol_IBM_PanAm
+
+Author:            
+  
+Submitted:         Fri, August 05 2011 by Awdesch Melzer
+  
+Datafile:          bank-additional-full.csv
+  
+Input:  
+  
+Output:  
+  
+Example:  
