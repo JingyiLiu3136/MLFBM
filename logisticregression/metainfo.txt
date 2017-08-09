@@ -1,0 +1,21 @@
+Name of Quantlet:  SPL_logisticregression
+ 
+Published in:      Statistical programming languages - Student Project on MLFBM
+  
+Description:       ‘Extract the coefficients and p-values with function coef.Select variables , use the generalized model function to create the logistic regression model. Run a logistic regression to predict the dependent variable y based on all other variables in the data set. Assessing the predictive ability of the model. Assess by ROC method, plot the ROC curve and calculate the AUC.’
+ 
+Keywords:          binomial, logistic regression, variable selection, glm , prediction , model, test , plot
+
+See also:          MVAportfol_IBM_Ford, MVAportfol_IBM_PanAm
+
+Author:            Jiaying Yuan
+  
+Submitted:         Fri, August 18 2017 by Jiaying Yuan
+  
+Datafile:          bank-additional-full.csv
+  
+Input:  
+  
+Output:  
+  
+Example:  
