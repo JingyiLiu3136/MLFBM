@@ -14,8 +14,8 @@ bank_additional_full = read.csv("bank-additional-full.csv", sep = ";")
 summary(bank_additional_full$age)
 age     = bank_additional_full$age
 marital = bank_additional_full$marital
-ggplot(bank_additional_full) + geom_histogram(aes(x = age))  #make histogram of age distribution
-ggplot(bank_additional_full) + geom_density(aes(x = age))
+ggplot(bank_additional_full) + geom_histogram(aes(x = age)) #make histogram of age distribution
+ggplot(bank_additional_full) + geom_density(aes(x = age)) #make density of age distribution
 ggplot(bank_additional_full) + geom_density(aes(x = age, color = marital))
 p = ggplot(data = bank_additional_full, mapping = aes(x = age, y = marital))
 p + geom_point()  #point the age distribution by marital
@@ -37,13 +37,13 @@ consumerprice     = bank_additional_full$cons.price.idx
 consumercofidence = bank_additional_full$cons.conf.idx
 ggplot(bank_additional_full, aes(x = consumerprice, y = consumercofidence)) + geom_point()
 ggplot(bank_additional_full, aes(x = consumerprice, y = consumercofidence)) + geom_point() + 
-    stat_smooth()
+    geom_smooth(method = "auto")
 
 # try to find the relationship between number of employement and variation rate of
 # employement
 emp.var.rate = bank_additional_full$emp.var.rate
 nr.emp       = bank_additional_full$nr.employed
-ggplot(bank_additional_full, aes(x = nr.emp, y = emp.var.rate)) + geom_point() + geom_smooth() + 
+ggplot(bank_additional_full, aes(x = nr.emp, y = emp.var.rate)) + geom_point() + geom_smooth(method = 'auto') + 
     labs(x = "number of employement") + labs(y = "variation rate of employement")
 
 # creat a function to search outliers
