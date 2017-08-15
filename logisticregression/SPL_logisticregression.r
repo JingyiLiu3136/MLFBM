@@ -8,7 +8,7 @@ summary(lr)
 coef(summary(lr))
 
 # we can see that 'housing' and 'loan' are not statistically significant. That means that they
-# both can be 100% predicted by some combination of other charactoristics.  However, the
+# both can be 100% predicted by some combination of other characteristics.  However, the
 # selection of formula-based model by AIC should be further processed.
 
 # Analysis of Deviance Table Analyzing the table we can see the drop in deviance when adding each

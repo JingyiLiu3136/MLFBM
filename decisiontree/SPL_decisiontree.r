@@ -1,6 +1,6 @@
 # Decision Tree
 bank_additional_full = read.csv("bank-additional-full.csv",sep = ";")
-# Try to load rpart, if it doesn't exist, then install and load it
+#Install and load package rpart.
 if (!require("rpart")) install.packages("rpart")
 library("rpart") 
 
