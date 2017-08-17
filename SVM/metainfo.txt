@@ -1,8 +1,8 @@
-Name of Quantlet:  SPLSVM
+Name of Quantlet:  SPL_SVM
  
 Published in:      'Statistical programming languages - Student Project on "MLFBM"'
   
-Description:       'Use Support Vector Machine to predict the Result.  The default SVM model already has good accuracy. However, it has problem in calculating AUC because SVM is the binary classifier which return 0 or 1 not probability. So we just calculate the accuracy in SVM model.'
+Description:       'Use Support Vector Machine model to predict the Bank Telemarketing Result.  The default SVM model already has good accuracy. However, it has a problem in calculating AUC because SVM is the binary classifier which return the value of 0 or 1 not probability. So we just calculate the accuracy in SVM model. However, the accuracy indicate can't give the signal that which mode, the default or tuned SVM model, is better for this project.'
 
 Keywords:          prediction , model , test 
 
