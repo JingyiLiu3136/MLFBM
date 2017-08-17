@@ -1,6 +1,6 @@
 Name of Quantlet:  SPL_decisiontree
  
-Published in:      Statistical programming languages - Student Project on MLFBM
+Published in:      'Statistical programming languages - Student Project on "MLFBM"'
   
 Description:       ‘Build up decision tree model and produce a nice chart of the tree in order to visualize the decision trees. Predict the output and assess the predictive ability of the model. Calculate performance according to ROC.’
  

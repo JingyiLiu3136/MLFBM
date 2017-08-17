@@ -46,7 +46,7 @@ nr.emp       = bank_additional_full$nr.employed
 ggplot(bank_additional_full, aes(x = nr.emp, y = emp.var.rate)) + geom_point() + geom_smooth(method = 'auto') + 
     labs(x = "number of employement") + labs(y = "variation rate of employement")
 
-# creat a function to search outliers
+# create a function to search outliers
 outlier_detection = function(data) {
     boundary = mean(data, na.rm = T) + 3 * sd(data, na.rm = T)
     message("Boundary is ", boundary)
