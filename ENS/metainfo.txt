@@ -1,10 +1,10 @@
-Name of Quantlet:  ENS
+Name of Quantlet:  SPL_ENS
  
 Published in:      'Statistical programming languages - Student Project on "MLFBM"'
   
-Description:       ‘Using the Ensemble Selection approach to improve the overall performance.’
+Description:       ‘Using the Ensemble Selection approach to improve the overall  performance.Ensemble Selection will implement the simulation of many different machine learning models,and combine all model by glm as a linear improved function,use this function we can get a better prediction of individual models.’
  
-Keywords:          machine lerning, bank marketing, returns, asset, time-series, plot
+Keywords:          'machine lerning, GLM, plot, variable selection, linear-model,cross-validation'
 
 See also:          
 
