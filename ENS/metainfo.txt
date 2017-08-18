@@ -1,14 +1,14 @@
 Name of Quantlet:  ENS
  
-Published in:      Using Machine Learning for the Bank Tele-Marketing Prediction
+Published in:      'Statistical programming languages - Student Project on "MLFBM"'
   
-Description:       Using the Ensemble Selection approach to improve the overall performance.
+Description:       ‘Using the Ensemble Selection approach to improve the overall performance.’
  
 Keywords:          machine lerning, bank marketing, returns, asset, time-series, plot
 
 See also:          
 
-Author:            
+Author:            Jingyi Liu
   
 Submitted:         
   
