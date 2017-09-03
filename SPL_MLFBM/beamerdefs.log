@@ -1,0 +1,386 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.30)  17 AUG 2017 22:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**beamerdefs.sty
+(./beamerdefs.sty
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+./beamerdefs.sty:12: Undefined control sequence.
+l.12 \titlegraphic
+                  {\hspace{30pt}\raisebox{22pt}{\pgfuseimage{logobig}}}
+? 
+
+./beamerdefs.sty:12: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \titlegraphic{\hspace{30pt}
+                                \raisebox{22pt}{\pgfuseimage{logobig}}}
+? 
+./beamerdefs.sty:12: Undefined control sequence.
+<argument> \pgfuseimage 
+                        {logobig}
+l.12 ...0pt}\raisebox{22pt}{\pgfuseimage{logobig}}
+                                                  }
+? 
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 12--13
+[]
+ []
+
+\c@mexample=\count79
+
+./beamerdefs.sty:22: LaTeX Error: Environment example undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \renewenvironment{example}
+                               {\refstepcounter{mexample}\color{isegreen}Exa...
+
+? 
+
+./beamerdefs.sty:26: LaTeX Error: \section undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \renewcommand{\section}
+                            [1]{\oldSection{#1} \setcounter{page}{1}}%
+? 
+./beamerdefs.sty:33: Undefined control sequence.
+l.33 \useitemizeitemtemplate
+                            {$\boxdot$}
+? 
+
+./beamerdefs.sty:33: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \useitemizeitemtemplate{$
+                              \boxdot$}
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 33.
+./beamerdefs.sty:33: Undefined control sequence.
+<recently read> \boxdot 
+                        
+l.33 \useitemizeitemtemplate{$\boxdot
+                                     $}
+? 
+./beamerdefs.sty:34: Undefined control sequence.
+l.34 \usesubitemizeitemtemplate
+                               {$\blacktriangleright$~}
+? 
+./beamerdefs.sty:34: Undefined control sequence.
+<recently read> \blacktriangleright 
+                                    
+l.34 ...ubitemizeitemtemplate{$\blacktriangleright
+                                                  $~}
+? 
+./beamerdefs.sty:35: Undefined control sequence.
+l.35 \usesubsubitemizeitemtemplate
+                                  {\textbullet~}
+? 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 35.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 35.
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--36
+[]$$
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 33--36
+\OMS/cmsy/m/n/10 ^^O  
+ []
+
+./beamerdefs.sty:38: Undefined control sequence.
+l.38 \setbeamercolor
+                    {enumerate item}{fg=black}
+? 
+
+./beamerdefs.sty:38: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \setbeamercolor{e
+                      numerate item}{fg=black}
+? 
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+./beamerdefs.sty:39: Undefined control sequence.
+l.39 \setbeamercolor
+                    {itemize item}{fg=navyblue}
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+./beamerdefs.sty:40: Undefined control sequence.
+l.40 \setbeamercolor
+                    {itemize subitem}{fg=navyblue}
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+./beamerdefs.sty:41: Undefined control sequence.
+l.41 \setbeamercolor
+                    {itemize subsubitem}{fg=navyblue}
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--42
+[]
+ []
+
+./beamerdefs.sty:47: Undefined control sequence.
+l.47 \setbeamercolor
+                    *{example text}{fg=green!40!black}
+? 
+
+./beamerdefs.sty:47: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \setbeamercolor*
+                     {example text}{fg=green!40!black}
+? 
+Missing character: There is no * in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+./beamerdefs.sty:48: Undefined control sequence.
+l.48 \setbeamercolor
+                    *{block body example}{fg=green!40!black}
+? 
+Missing character: There is no * in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--49
+[]
+ []
+
+./beamerdefs.sty:53: Undefined control sequence.
+l.53 \useheadtemplate
+                     {%
+? 
+
+./beamerdefs.sty:54: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \raisebox{-0.75cm}
+                       {\parbox{\textwidth}{%
+? 
+./beamerdefs.sty:57: Undefined control sequence.
+<argument> ...pdima \@parboxrestore \footnotesize 
+                                                  {\color {isegray}\insertse...
+l.57 }}
+       }%
+? 
+./beamerdefs.sty:57: Undefined control sequence.
+<argument> ...parboxrestore \footnotesize {\color 
+                                                  {isegray}\insertsection \ ...
+l.57 }}
+       }%
+? 
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no y in font nullfont!
+./beamerdefs.sty:57: Undefined control sequence.
+<argument> ...ize {\color {isegray}\insertsection 
+                                                  \ \leavevmode \leaders \hr...
+l.57 }}
+       }%
+? 
+./beamerdefs.sty:57: Emergency stop.
+<argument> ...ize {\color {isegray}\insertsection 
+                                                  \ \leavevmode \leaders \hr...
+l.57 }}
+       }%
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 52 strings out of 492995
+ 715 string characters out of 6132704
+ 54074 words of memory out of 5000000
+ 3701 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,3n,15p,173b,81s stack positions out of 5000i,500n,10000p,200000b,80000s
+./beamerdefs.sty:57:  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,53 @@
+\BOOKMARK [1][-]{section*.1}{Contents}{}% 1
+\BOOKMARK [1][-]{section*.2}{List of Figures}{}% 2
+\BOOKMARK [1][-]{section*.3}{List of Tables}{}% 3
+\BOOKMARK [1][-]{section.1}{1 Introduction}{}% 4
+\BOOKMARK [1][-]{section.2}{2 Theory of Models}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{2.1 Logistic Regression}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{2.2 Decision tree}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{2.3 Neural Network}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{2.4 Random Forest}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.5}{2.5 Support Vector Machine}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.6}{2.6 Ensemble Selection}{section.2}% 11
+\BOOKMARK [1][-]{section.3}{3 Data Preparation and Basic Analysis}{}% 12
+\BOOKMARK [1][-]{section.4}{4 Data Completion}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{4.1 An Example on Feature Engineering}{section.4}% 14
+\BOOKMARK [3][-]{subsubsection.4.1.1}{4.1.1 Step 1: Create Date Variable}{subsection.4.1}% 15
+\BOOKMARK [3][-]{subsubsection.4.1.2}{4.1.2 Step 2: Import Economic Data}{subsection.4.1}% 16
+\BOOKMARK [1][-]{section.5}{5 Logistic Regression}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{5.1 Implementation}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{5.2 Empirical Study}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{6 Decision Tree}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{6.1 Implementation}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.2}{6.2 Empirical Study}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{7 Random Forest}{}% 23
+\BOOKMARK [2][-]{subsection.7.1}{7.1 Implementation}{section.7}% 24
+\BOOKMARK [3][-]{subsubsection.7.1.1}{7.1.1 Step1: Construct four default RF models}{subsection.7.1}% 25
+\BOOKMARK [3][-]{subsubsection.7.1.2}{7.1.2 Step2: Tune the parameters}{subsection.7.1}% 26
+\BOOKMARK [3][-]{subsubsection.7.1.3}{7.1.3 Step3: The final best tuned model}{subsection.7.1}% 27
+\BOOKMARK [2][-]{subsection.7.2}{7.2 Empirical Study}{section.7}% 28
+\BOOKMARK [1][-]{section.8}{8 Support Vector Machine}{}% 29
+\BOOKMARK [2][-]{subsection.8.1}{8.1 Implementation}{section.8}% 30
+\BOOKMARK [3][-]{subsubsection.8.1.1}{8.1.1 Step1: Construct default SVM model}{subsection.8.1}% 31
+\BOOKMARK [3][-]{subsubsection.8.1.2}{8.1.2 Step2: Tune the parameters}{subsection.8.1}% 32
+\BOOKMARK [3][-]{subsubsection.8.1.3}{8.1.3 Step3: The final best tuned model}{subsection.8.1}% 33
+\BOOKMARK [2][-]{subsection.8.2}{8.2 Empirical Study}{section.8}% 34
+\BOOKMARK [1][-]{section.9}{9 Neural network}{}% 35
+\BOOKMARK [2][-]{subsection.9.1}{9.1 Implementation}{section.9}% 36
+\BOOKMARK [2][-]{subsection.9.2}{9.2 Empirical Study}{section.9}% 37
+\BOOKMARK [1][-]{section.10}{10 Ensemble Selection}{}% 38
+\BOOKMARK [2][-]{subsection.10.1}{10.1 Implementation}{section.10}% 39
+\BOOKMARK [2][-]{subsection.10.2}{10.2 Empirical Study}{section.10}% 40
+\BOOKMARK [1][-]{section.11}{11 Conclusion}{}% 41
+\BOOKMARK [1][-]{section.11}{Reference}{}% 42
+\BOOKMARK [1][-]{appendix.A}{A Appendix: Full source code of Quantlet}{}% 43
+\BOOKMARK [2][-]{subsection.A.1}{A.1 Data Preparatin and Basic Analysis}{appendix.A}% 44
+\BOOKMARK [2][-]{subsection.A.2}{A.2 Data Completion}{appendix.A}% 45
+\BOOKMARK [2][-]{subsection.A.3}{A.3 Logistic Regression}{appendix.A}% 46
+\BOOKMARK [2][-]{subsection.A.4}{A.4 Decision Tree}{appendix.A}% 47
+\BOOKMARK [2][-]{subsection.A.5}{A.5 Random Forest}{appendix.A}% 48
+\BOOKMARK [2][-]{subsection.A.6}{A.6 SVM}{appendix.A}% 49
+\BOOKMARK [2][-]{subsection.A.7}{A.7 Neural Network}{appendix.A}% 50
+\BOOKMARK [2][-]{subsection.A.8}{A.8 Ensemble Selection}{appendix.A}% 51
+\BOOKMARK [1][-]{appendix.B}{B Appendix: All Graphics}{}% 52
+\BOOKMARK [1][-]{figure.30}{Declaration of Authorship}{}% 53

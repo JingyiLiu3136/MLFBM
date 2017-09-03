@@ -1,0 +1,109 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Contents}{II}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{List of Figures}{V}{section*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{List of Tables}{VII}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Theory of Models}{6}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Logistic Regression}{6}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Decision tree}{7}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Neural Network}{7}{subsection.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Random Forest}{9}{subsection.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Support Vector Machine}{10}{subsection.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Ensemble Selection}{10}{subsection.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Data Preparation and Basic Analysis}{11}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Data Completion}{14}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}An Example on Feature Engineering}{14}{subsection.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.1}Step 1: Create Date Variable}{14}{subsubsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.2}Step 2: Import Economic Data}{17}{subsubsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Logistic Regression}{18}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Implementation}{18}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Empirical Study}{20}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Decision Tree}{22}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Implementation}{22}{subsection.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Empirical Study}{25}{subsection.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Random Forest}{27}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Implementation}{27}{subsection.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.1.1}Step1: Construct four default RF models}{28}{subsubsection.7.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.1.2}Step2: Tune the parameters}{30}{subsubsection.7.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.1.3}Step3: The final best tuned model}{31}{subsubsection.7.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}Empirical Study}{31}{subsection.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Support Vector Machine}{33}{section.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}Implementation}{33}{subsection.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.1.1}Step1: Construct default SVM model}{34}{subsubsection.8.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.1.2}Step2: Tune the parameters}{34}{subsubsection.8.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {8.1.3}Step3: The final best tuned model}{35}{subsubsection.8.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}Empirical Study}{35}{subsection.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Neural network}{37}{section.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.1}Implementation}{37}{subsection.9.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {9.2}Empirical Study}{39}{subsection.9.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Ensemble Selection}{40}{section.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1}Implementation}{41}{subsection.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2}Empirical Study}{44}{subsection.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}Conclusion}{47}{section.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Reference}{49}{section.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Appendix: Full source code of Quantlet}{50}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1}Data Preparatin and Basic Analysis}{50}{subsection.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.2}Data Completion}{53}{subsection.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.3}Logistic Regression}{57}{subsection.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.4}Decision Tree}{60}{subsection.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.5}Random Forest}{63}{subsection.A.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.6}SVM}{73}{subsection.A.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.7}Neural Network}{75}{subsection.A.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.8}Ensemble Selection}{79}{subsection.A.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Appendix: All Graphics}{82}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Declaration of Authorship}{111}{figure.30}
